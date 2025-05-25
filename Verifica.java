@@ -6,6 +6,9 @@ class Verifica {
         System.out.println("Hello World");
         System.out.println("Hello World");
         System.out.println("Andrea");
+        for(int i=0; i<10; i++){
+            System.out.println("Andrea");
+        }
 
     }
 }
